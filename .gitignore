@@ -1,8 +1,8 @@
 __pycache__/*
 docstring_tool/__pycache__/*
 dist
-.test/
-.pruebas/
+test/
+pruebas/
 *.pyc
 .coverage
 .idea/
