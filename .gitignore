@@ -1,0 +1,20 @@
+__pycache__/*
+docstring_tool/__pycache__/*
+dist
+.test/
+.pruebas/
+*.pyc
+.coverage
+.idea/
+.vscode/
+build/
+*.html
+*.css
+*.png
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

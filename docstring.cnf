@@ -1,0 +1,5 @@
+[name]=DOCSTRING TOOL
+[version]=v1.0
+[license]=GNU GPL-3 
+[copyright]=Copyright 2023- Croketillo <croketillo@gmail.com> https://github.com/croketillo
+[description]=DOCSTRING TOOL is a software to include/remove docstrings at the beginning of any python file found in the specified folder.
