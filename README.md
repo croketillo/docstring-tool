@@ -4,7 +4,7 @@ DOCSTRING TOOL is a software to include/remove docstrings at the beginning of an
 
 ## Usage
 
-** usage: main.py [-h] {add,del,show} ...
+*usage: main.py [-h] {add,del,show} ...
 
 Tool for managing docstrings in .py files
 
@@ -15,7 +15,7 @@ positional arguments:
     show          Preview docstring text
 
 options:
-  -h, --help      show this help message and exit **
+  -h, --help      show this help message and exit*
 
 
 
