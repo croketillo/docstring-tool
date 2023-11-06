@@ -1,6 +1,6 @@
 # DocString Tool
 
-DOCSTRING TOOL is a software to include/remove docstrings at the beginning of any python file found in the specified folder.
+DOCSTRING TOOL is a script to include/remove docstrings at the beginning of any python file found in the specified folder.
 The docstring text is stored in a file that will be specified by the user. It is possible to store tags to include in the text in ```docstring.cnf``` to be able to reuse docstring texts.
 
 
